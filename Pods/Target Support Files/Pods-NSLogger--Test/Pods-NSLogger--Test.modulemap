@@ -1,0 +1,6 @@
+framework module Pods_NSLogger__Test {
+  umbrella header "Pods-NSLogger--Test-umbrella.h"
+
+  export *
+  module * { export * }
+}
